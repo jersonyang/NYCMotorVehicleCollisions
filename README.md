@@ -4,8 +4,7 @@
 <!-- Project description, including project overview and functionalities -->
 **Project Description**
 
-<!-- Project title -->
-#Project file/module structure
+<!-- Project file/module structure -->
 **Project File Structure**
 
 <!-- Project dependencies/environments/libraries, and how to install them on Windows or Mac. For Jupyter Notebook, specify the kernel information -->
